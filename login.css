@@ -1,0 +1,18 @@
+.login{
+    border: 1px solid indigo ;
+    width: 200px;
+    border-radius: 4px;
+    background-image:url("./123.JPJ.jpeg");
+    width: 50%;
+    text-align: center;
+}
+input[type="text"],input[type="password"],input[type="submit"]{
+    color: lightblue;
+    background-color: rgb(43, 53, 52);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.sign up {
+    text-align: center;
+}
